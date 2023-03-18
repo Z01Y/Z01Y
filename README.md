@@ -1,6 +1,6 @@
 ### Hi there, I'm Zoey  
 <div align="center">
-<img src="https://media.tenor.com/PX1doq1mxnYAAAAM/girl-hacker.gif" align="center" style="width: 100%" />
+<img src="https://notion-avatar.vercel.app/api/img/eyJmYWNlIjo5LCJub3NlIjoxMywibW91dGgiOjEwLCJleWVzIjoxMCwiZXllYnJvd3MiOjEwLCJnbGFzc2VzIjoyLCJoYWlyIjoyNywiYWNjZXNzb3JpZXMiOjMsImRldGFpbHMiOjAsImJlYXJkIjowLCJmbGlwIjowLCJjb2xvciI6IiMxNzQwMzAiLCJzaGFwZSI6ImNpcmNsZSJ9" alt="notion avatar">
 </div>  
   
 
